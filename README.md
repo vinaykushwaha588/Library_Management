@@ -7,7 +7,7 @@ link 2Factor - https://2factor.in/v3/free-bulk-sms-service-trial/index.php
 
 ---------------------------------------------------: MobileOTP Verification with JWT Authentication :---------------------------------------------------
 
-# import postman collections - https://www.getpostman.com/collections/7ecad5ad387e02bd2d16
+import postman collections - https://www.getpostman.com/collections/7ecad5ad387e02bd2d16
 
 http://127.0.0.1:8000/account/send-otp/ - This url working for register user and otp send for given mobile number. \method - POST\ ||
 http://127.0.0.1:8000/account/verify/   - This url working for otp-verification. and given mobile number recieved 6 digit otp. \method - POST\ ||
