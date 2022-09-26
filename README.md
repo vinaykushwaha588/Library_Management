@@ -17,10 +17,10 @@ http://127.0.0.1:8000/account/list/ - This url working for Entry on Library - Af
 
 ----------------------------------- After Clicking link Open New Tab -- Access Token Hit is Mendatory ------------------------------------------------
 
-http://127.0.0.1:8000/account/list/book/  - This Url working for show all Library Books Method - GET \\  ['TOken Hit Mendatory']
-http://127.0.0.1:8000/account/list/book/  - This Url working for insert book on Library Books Method - POST \\ ['TOken Hit Mendatory']
-http://127.0.0.1:8000/account/list/book/2/  - This Url working for Update Books on Library Method - PUT \\ ['TOken Hit Mendatory']
-http://127.0.0.1:8000/account/list/book/2/  - This Url working for Delete Books on Library Method - Delete \\ ['TOken Hit Mendatory']
+http://127.0.0.1:8000/account/list/book/  - This Url working for show all Library Books Method - GET \\  ['Token Hit Mendatory']
+http://127.0.0.1:8000/account/list/book/  - This Url working for insert book on Library Books Method - POST \\ ['T0ken Hit Mendatory']
+http://127.0.0.1:8000/account/list/book/2/  - This Url working for Update Books on Library Method - PUT \\ ['Token Hit Mendatory']
+http://127.0.0.1:8000/account/list/book/2/  - This Url working for Delete Books on Library Method - Delete \\ ['Token Hit Mendatory']
 
 
 
